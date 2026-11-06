@@ -2,9 +2,10 @@
 ## About me
 I'm a systems software engineer who's happiest where software meets hardware: from microcontrollers and embedded Linux to backend services and data pipelines. Off the clock, I run a NixOS and Home Assistant homelab I probably over-engineer, mod my Steam Deck more than I play it, build synthwave-flavored VS Code themes, and work on projects with tools and technologies I want to learn.
 
-![GitHub Stats](https://github-stats-xi-six.vercel.app/api/stats?user=sabrsorensen&theme=glass) ![Top Repositories](https://github-stats-xi-six.vercel.app/api/top-repos?user=sabrsorensen&theme=glass)
+![GitHub Stats](https://github-stats-xi-six.vercel.app/api/stats?user=sabrsorensen&theme=glass)
+![Top Repositories](https://github-stats-xi-six.vercel.app/api/top-repos?user=sabrsorensen&theme=glass)
 
-### I'm a systems software engineer with professional experience in:
+### My professional experience has focused on:
 * backend APIs, databases, cloud storage providers, and idempotent event processing
 * ETL and telemetry ingestion workflows
 * embedded systems (AVR, STM32, ESP32, buildroot embedded Linux)
