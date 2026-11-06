@@ -7,6 +7,7 @@ I'm a systems software engineer who's happiest where software meets hardware: fr
 
 ### My professional experience has focused on:
 * backend APIs, databases, cloud storage providers, and idempotent event processing
+* remote management and infrastructure supporting widely-deployed device fleets
 * ETL and telemetry ingestion workflows
 * embedded systems (AVR, STM32, ESP32, buildroot embedded Linux)
 * test & verification
